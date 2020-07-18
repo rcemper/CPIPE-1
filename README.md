@@ -4,7 +4,7 @@
  It is also NOT serviced by InterSystems Support !   
   ~~~
 
-This tiny example shows how to run a server command from within Caché / Ensemble / IRIS 
+The example shows how to run a server command from within Caché / Ensemble / IRIS 
 and get back the full output as seen in any server command shell. 
 Instead of just displaying the result the more useful purpose is to check the interesting lines 
 and just skip the rest. 
