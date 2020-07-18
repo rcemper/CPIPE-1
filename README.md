@@ -1,6 +1,6 @@
   ~~~
  This is a coding example working on Caché 2018.1.3 and IRIS 2010.2  
- It will not be kept in synch with new versions      
+ It will not be kept in sync with new versions      
  It is also NOT serviced by InterSystems Support !   
   ~~~
 
