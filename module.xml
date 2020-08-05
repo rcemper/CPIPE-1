@@ -3,7 +3,7 @@
   <Document name="zpipe.ZPM">
     <Module>
       <Name>zpipe</Name>
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
       <Description>CPIPE Demo</Description>
       <Keywords>Terminal, COS</Keywords>
       <Packaging>module</Packaging>
