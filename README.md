@@ -49,3 +49,5 @@ Ca. Zeitangaben in Millisek.:
  
 CACHE>
 ~~~
+
+[Article in DC](https://community.intersystems.com/post/execute-server-commands-cach%C3%A9-ensemble-iris)
