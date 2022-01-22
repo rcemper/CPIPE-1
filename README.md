@@ -12,7 +12,7 @@ It's definitely easier than $ZF(-1,..) and $ZF(-2,...) exercises.
 
 #### Demo1 ###
 ~~~
-   CACHE>d cmd^Zpipe("ping community.intersystems.com")
+   IRISAPP>d cmd^Zpipe("ping community.intersystems.com")
  
 Ping wird ausgeführt für community.intersystems.com [54.83.203.138] mit 32 Bytes Daten:
 Antwort von 54.83.203.138: Bytes=32 Zeit=120ms TTL=47
@@ -33,7 +33,7 @@ You may add this line to %LANGC00.mac to make usage easier
 ~~~
 #### Demo2 ####
 ~~~
-   CACHE>zpipe "ping community.intersystems.com"
+   IRISAPP>zpipe "ping community.intersystems.com"
  
 Ping wird ausgeführt für community.intersystems.com [54.83.203.138] mit 32 Bytes Daten:
 Antwort von 54.83.203.138: Bytes=32 Zeit=123ms TTL=47
@@ -47,7 +47,7 @@ Ping-Statistik für 54.83.203.138:
 Ca. Zeitangaben in Millisek.:
     Minimum = 119ms, Maximum = 239ms, Mittelwert = 150ms
  
-CACHE>
+IRISAPP>
 ~~~
 
 [Article in DC](https://community.intersystems.com/post/execute-server-commands-cach%C3%A9-ensemble-iris)
