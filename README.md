@@ -1,9 +1,4 @@
-  ~~~
- This is a coding example working on Caché 2018.1.3 and IRIS 2020.2  
- It will not be kept in sync with new versions      
- It is also NOT serviced by InterSystems Support !   
-  ~~~
-
+# Zpipe
 The example shows how to run a server command from within Caché / Ensemble / IRIS 
 and get back the full output as seen in any server command shell. 
 Instead of just displaying the result the more useful purpose is to check the interesting lines 
@@ -50,4 +45,10 @@ Ca. Zeitangaben in Millisek.:
 IRISAPP>
 ~~~
 
-[Article in DC](https://community.intersystems.com/post/execute-server-commands-cach%C3%A9-ensemble-iris)
+[Article in DC](https://community.intersystems.com/post/execute-server-commands-cach%C3%A9-ensemble-iris)     
+     
+[Demo Server SMP](https://zpipe.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://zpipe.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality** in SCREENSHOTS   
+
