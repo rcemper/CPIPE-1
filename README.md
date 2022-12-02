@@ -47,9 +47,3 @@ IRISAPP>
 
 [Article in DC](https://community.intersystems.com/post/execute-server-commands-cach%C3%A9-ensemble-iris)     
      
-[Demo Server SMP](https://zpipe.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://zpipe.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/821/screenshots/xyj9jyp7jytqmdpvdygypgocido.jpg">
-
