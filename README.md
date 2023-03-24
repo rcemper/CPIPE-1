@@ -1,3 +1,5 @@
+<div align="right"><h3>*** archived ***</h3></div>
+
 # CPIPE
 The example shows how to run a server command from within Caché / Ensemble / IRIS 
 and get back the full output as seen in any server command shell. 
