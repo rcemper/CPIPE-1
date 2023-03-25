@@ -1,11 +1,10 @@
-<div align="right"><h3>*** archived ***</h3></div
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
 
-![](https://github.com/isc-at/CPIPE/archived.jpeg)
 ## CPIPE
-The example shows how to run a server command from within Caché / Ensemble / IRIS 
-and get back the full output as seen in any server command shell. 
-Instead of just displaying the result the more useful purpose is to check the interesting lines 
-and just skip the rest. 
+The example shows how to run a server command from within Caché / Ensemble / IRIS    
+and get back the full output as seen in any server command shell.    
+Instead of just displaying the result the more useful purpose is to check the interesting lines    
+and just skip the rest.   
 It's definitely easier than $ZF(-1,..) and $ZF(-2,...) exercises. 
 
 #### Demo1 ###
